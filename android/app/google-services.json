@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145938289100",
+    "project_id": "loose-leaf-28a8a",
+    "storage_bucket": "loose-leaf-28a8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145938289100:android:3c6e9655572539ccc1cd69",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZrJyFdNT1xpWxIokPuY-xm3nfwP2j2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
